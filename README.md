@@ -14,14 +14,11 @@ Example :
 
 Example - This is a fir tree of size 1:
 ~/pool_c_sapin> ./sapin 1
-
-
-
-      *
+     
+	  *
     * * *
   * * * * *
 * * * * * * *
       |
-
 	  
 Try and see ;)
